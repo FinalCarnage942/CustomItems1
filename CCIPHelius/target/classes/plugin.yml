@@ -1,0 +1,8 @@
+name: CCIPHelius
+version: 1.0
+main: me.Carnage.cCIPHelius.CCIPHelius
+api-version: 1.21
+commands:
+  CCIPHelius:
+    description: Main command for CCIPHelius plugin
+    usage: /cciphelius

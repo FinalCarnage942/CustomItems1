@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CCIP-Helius:jar">
+    <output-path>$USER_HOME$/Desktop/BlockBay/plugins</output-path>
+    <root id="archive" name="CCIP-Helius.jar">
+      <element id="module-output" name="CCIPHelius" />
+    </root>
+  </artifact>
+</component>
